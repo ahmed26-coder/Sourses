@@ -1,11 +1,11 @@
 import { Routes, Route } from "react-router-dom";
 import Nav from "./Components/Nav"
 import Footer from "./Components/Footer"
-import Home from "./Pages/Home";
-import About from "./pages/About";
-import Pricing from "./Pages/Pricing";
-import Courses from "./Pages/Courses";
-import Contact from "./Pages/Contact";
+import Home from "./Pages/Home"
+import About from "./Pages/About"
+import Pricing from "./Pages/Pricing"
+import Courses from "./Pages/Courses"
+import Contact from "./Pages/Contact"
 
 
 function App() {
